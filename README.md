@@ -9,3 +9,5 @@ Tired of using a smithing table to trim your armor one piece at a time? **Armor 
     * **Resource Management**: The plugin automatically checks for and consumes the correct smithing templates and materials from your inventory.
 * **`/untrim <wearing|inventory>`**
     * **Quick Untrimming**: Quickly remove trims from all armor pieces you're either wearing or that are in your inventory.
+
+*This description and the code for this plugin were created with the help of an AI.*
