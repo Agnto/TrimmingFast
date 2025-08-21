@@ -1,6 +1,6 @@
-### Armor Trimming Fast
+### Trimming Fast
 
-Tired of using a smithing table to trim your armor one piece at a time? **Armor Trimming Fast** is a plugin that makes the process quick and easy with simple commands.
+Tired of using a smithing table to trim your armor one piece at a time? **Trimming Fast** is a plugin that makes the process quick and easy with simple commands.
 
 ### Commands & Features
 
